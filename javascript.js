@@ -9,7 +9,7 @@ var viewer = pannellum.viewer('panorama',{
     "scenes": {
         "image-1": {
             "type": "equirectangular",
-            "panorama": "15m.jpg", 
+            "panorama": "15m.JPG", 
             "hfov":200,
             "yaw": 0,
             "compass":true,
